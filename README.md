@@ -1,3 +1,3 @@
 # Repo1
-Genuinely first Repositiory
+Genuinely first Repositiory. 
 Author: Mustafaa
